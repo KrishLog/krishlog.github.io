@@ -1,0 +1,63 @@
+[
+  {
+    "id": "663300",
+    "name": "Snacks",
+    "address": "",
+    "cuisines": "Mithai, Street Food, North Indian",
+    "rating": "4.4",
+    "reviews": "865",
+    "feature_image": "https://b.zmtcdn.com/data/pictures/8/18387708/05ccffe6286d86a43e664cff382b1cda.jpg?output-format=webp",
+    "thumbnail_image": "https://b.zmtcdn.com/data/pictures/8/18387708/05ccffe6286d86a43e664cff382b1cda.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A",
+    "menu": [
+      {
+        "id": 663301,
+        "name": "Snickers Bar",
+        "desc": "Enjoy the special taste of exclusive spice marinated tender and juicy Lamb pieces, enough to share between two persons that are Dum cooked along with the finest of Basmati Rice",
+        "thumbnail_image": "https://b.zmtcdn.com/data/pictures/8/18387708/05ccffe6286d86a43e664cff382b1cda.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A",
+        "price": 210
+      },
+      {
+        "id": 663302,
+        "name": "Clif Bars",
+        "desc": "Enjoy the special taste of exclusive spice marinated tender and juicy Lamb pieces, enough to share between two persons that are Dum cooked along with the finest of Basmati Rice",
+        "thumbnail_image": "https://b.zmtcdn.com/data/pictures/8/18387708/05ccffe6286d86a43e664cff382b1cda.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A",
+        "price": 280
+      },
+      {
+        "id": 663303,
+        "name": "Pop-Tarts",
+        "desc": "A flavorful medley of finest Basmati Rice, boiled Eggs, and aromatic spices. Ideally for one person but can be shared between two. ",
+        "thumbnail_image": "https://b.zmtcdn.com/data/pictures/8/18387708/05ccffe6286d86a43e664cff382b1cda.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A",
+        "price": 230
+      },
+      {
+        "id": 663304,
+        "name": "Sun Chips",
+        "desc": "The authentic Veg delicacy seasoned with herbs and spices and then layered into fine grain Basmati Rice and cooked to perfection.",
+        "thumbnail_image": "https://b.zmtcdn.com/data/pictures/8/18387708/05ccffe6286d86a43e664cff382b1cda.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A",
+        "price": 190
+      },
+      {
+        "id": 663305,
+        "name": "Reese’s Peanut Butter Cups",
+        "desc": "An assorted variety of Moroccan Chicken Kebab, Chicken Pepper Marinate, Chicken Reshmi Kebab & Chicken Garlic Kebab served with Pudina chutney. Comes in a tamper-proof sealed pack, easy to carry. (8 pcs)",
+        "thumbnail_image": "https://b.zmtcdn.com/data/pictures/8/18387708/05ccffe6286d86a43e664cff382b1cda.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A",
+        "price": 240
+      },
+      {
+        "id": 663306,
+        "name": "Planters Trail Mix",
+        "desc": "The King of all kebabs, spiced full Chicken with bone, finished in a Tandoor. (2 pcs)",
+        "thumbnail_image": "https://b.zmtcdn.com/data/pictures/8/18387708/05ccffe6286d86a43e664cff382b1cda.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A",
+        "price": 370
+      },
+      {
+        "id": 663307,
+        "name": "Granola Bars",
+        "desc": "A sweet treat from Hyderabad, this heavenly dessert comprises of dried apricots and sugar, enriched with saffron strands and rose water.",
+        "thumbnail_image": "https://b.zmtcdn.com/data/pictures/8/18387708/05ccffe6286d86a43e664cff382b1cda.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A",
+        "price": 150
+      }
+    ]
+  }
+]
